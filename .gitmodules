@@ -1,0 +1,8 @@
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/0x6b/alacritty
+	branch = helixitty
+[submodule "helix"]
+	path = helix
+	url = https://github.com/0x6b/helix
+	branch = japanese-word-boundary
